@@ -64,4 +64,4 @@ For Power BI: Get Data → Text/CSV → `clean_orders.csv`, then add the DAX mea
 - Deploy an interactive dashboard with Streamlit
 
 ## 👤 Author
-**Your Name** · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Govardhana Ramgopal** · [LinkedIn](https://www.linkedin.com/in/govardhana-ramgopal-computer-engineering?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/Govardhana007)
